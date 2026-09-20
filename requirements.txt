@@ -1,0 +1,8 @@
+langgraph
+groq
+arxiv
+pymupdf
+chromadb
+sentence-transformers
+python-dotenv
+requests
